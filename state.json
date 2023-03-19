@@ -1,0 +1,10 @@
+{
+    "pets": [
+        {
+            "name": "John",
+            "hapiness": "5",
+            "hunger": "5",
+            "id": "272980d-dc3e-44dc-abc6-6aad1fc5e8fd"
+        }
+    ]
+}
